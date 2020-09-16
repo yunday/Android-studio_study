@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147474940771",
+    "firebase_url": "https://fakestagram-d36f5.firebaseio.com",
+    "project_id": "fakestagram-d36f5",
+    "storage_bucket": "fakestagram-d36f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147474940771:android:3618351e36261eca984956",
+        "android_client_info": {
+          "package_name": "com.example.fakestagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147474940771-ahkjocpilc56ubnp8hdrserh3kucue9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdizl_CzHeTNsn1N4rPlWFzLllXZNPSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147474940771-ahkjocpilc56ubnp8hdrserh3kucue9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
